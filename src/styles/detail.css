@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.dentist-detail {
+  margin-top: 50px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-info {
+  background-color: rgb(144, 191, 235);
+  width: 400px;
+  padding: 8px;
+  margin: auto;
+  
+}
+
+

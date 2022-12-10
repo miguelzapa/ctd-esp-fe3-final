@@ -12,7 +12,7 @@ code {
     monospace;
 }
 .favButton{
-  background-color: rgba(136, 136, 136, 0.116);
+  background-color: rgba(82, 77, 77, 0.116);
   padding: 10px;
   border: none;
   width: 100%;
@@ -114,7 +114,7 @@ tr:nth-child(even) {
 }
 
 .dark{
-  background-color: #12121296;
+  background-color: #00000096;
   color: white;
 }
 .dark > a {
